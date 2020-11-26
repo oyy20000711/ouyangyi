@@ -1,0 +1,2 @@
+test:ouyang.c ouyangtest.c
+	gcc -g ouyang.c ouyangtest.c -o test
