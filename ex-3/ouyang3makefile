@@ -1,0 +1,2 @@
+ouyang3:ouyang3.c ouyang3test.c
+	gcc -g ouyang3.c ouyang3test.c -o ouyang3
